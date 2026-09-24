@@ -1,1 +1,1 @@
-Color preference: Blue
+Color preference: Red

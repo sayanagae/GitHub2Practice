@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Color preference: Blue
+Color preference: Purple
+Color preference: Red
+>>>>>>> branch-Y
